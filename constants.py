@@ -1,0 +1,7 @@
+# RELEASE VERSION
+VERSION = "DEV"
+
+# COLOURS
+GRAY = "\033[90m"
+RESET = "\033[0m"
+DIM = "\033[2m"
